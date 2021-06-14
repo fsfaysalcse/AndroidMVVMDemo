@@ -1,8 +1,9 @@
 # Friends App
 ## _Assignment Task : TBL Tech Nerds_
 
-![](screenshots/Screenshot_1623703814.png)
 ![](screenshots/Screenshot_1623703809.png)
+![](screenshots/Screenshot_1623703814.png)
+
 
 I have been able to complete this project as per the requirements given in the assignment.
 
