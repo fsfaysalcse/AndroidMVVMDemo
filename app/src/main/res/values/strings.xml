@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Friends App</string>
+    <string name="app_name_toolbar">F R I E N D S</string>
+    <string name="text_user_details">D E T A I L S</string>
+    <string name="text_mail">EMAIL</string>
+    <string name="text_phone">PHONE</string>
+    <string name="text_address">ADDRESS</string>
+</resources>
